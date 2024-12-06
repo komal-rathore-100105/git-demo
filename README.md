@@ -1,3 +1,3 @@
 # git-demo
-githum demo
+github demo
 author -komal
